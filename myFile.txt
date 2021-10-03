@@ -1,1 +1,5 @@
+SITAIRIS LAB ABOUT GIT
+initial text in file
+text was changed by 'ramina'
 text was changed by 'mikhail'
+new text was added by ramina
