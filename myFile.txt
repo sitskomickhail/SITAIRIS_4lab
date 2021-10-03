@@ -1,1 +1,2 @@
 initial text in file
+text was changed by 'ramina'
