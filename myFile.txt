@@ -1,3 +1,4 @@
 SITAIRIS LAB ABOUT GIT
+initial text in file
 text was changed by 'ramina'
 new text was added by ramina
